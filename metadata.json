@@ -1,0 +1,6 @@
+{
+  "name": "Fishing Knots Guide",
+  "description": "Offline standalone Android fishing knot guide with interactive animated 2D line demonstrations, step controls, and line ratings for 12 essential knots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
